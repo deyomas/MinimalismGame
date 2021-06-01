@@ -10,4 +10,6 @@ The core design elements are:
   <li>Actually completing a project, start to finish</li>
 </ul>
 
+This game was created with Unity version 2020.2.1f1. To launch the game in the editor, open the MainScene and press play. 
+
 To download and play the game, visit the itch.io page HERE (Not yet finished). 
